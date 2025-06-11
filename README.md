@@ -1,3 +1,11 @@
+# This is practice lesson for web3 NFT marketplace
+
+All I have to do is only to follow how to do
+- Update the home page
+  - Add all recently listed NFTs
+  - Indexer
+- Compliance Engine
+
 # NFT Marketplace 
 
 The final project for the Cyfrin Web3 Full Stack crash course, where we introduce:
@@ -17,8 +25,6 @@ We will need to implement:
   - Add all recently listed NFTs
   - Indexer
 - Compliance Engine
-
-If you wish to see what the final product looks like, head over to the `main` branch!
 
 
 # Table of Contents
